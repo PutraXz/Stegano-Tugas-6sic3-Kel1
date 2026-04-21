@@ -19,11 +19,10 @@ Aplikasi ini mengimplementasikan metode LSB (Least Significant Bit) Steganograph
 
 👨‍💻 Anggota Kelompok 1
 
-No| Nama
-1| Imam Syahputra
-2| Mhd. Arsyad Marfah
-3| Ananda Maulana Ibrahim
-4| Rafli Afdillah Putra
+1. Imam Syahputra
+2. Mhd. Arsyad Marfah
+3. Ananda Maulana Ibrahim
+4. Rafli Afdillah Putra
 ---
 
 ⚙️ Teknologi yang Digunakan
