@@ -66,7 +66,7 @@ Aplikasi ini mengimplementasikan metode LSB (Least Significant Bit) Steganograph
 
 1. Clone Repository
 
-git clone https://github.com/username/stegano-6sic3.git
+git clone https://github.com/PutraXz/Stegano-Tugas-6sic3-Kel1.git
 cd stegano-6sic3
 
 2. Install Dependency
