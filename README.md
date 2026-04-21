@@ -24,7 +24,6 @@ No| Nama
 2| Mhd. Arsyad Marfah
 3| Ananda Maulana Ibrahim
 4| Rafli Afdillah Putra
-
 ---
 
 ⚙️ Teknologi yang Digunakan
